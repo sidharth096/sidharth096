@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 <h1 align="center">Hi 👋, I'm sidharth</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
