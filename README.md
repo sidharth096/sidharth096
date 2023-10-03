@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **creative company**
 
-- 🌱 I’m currently learning **javascript,DSA,nodejs**
+- 🌱 I’m currently learning **Typescript,Reactjs**
 
 - 👯 I’m looking to collaborate on **node project**
 
