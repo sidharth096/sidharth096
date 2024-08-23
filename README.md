@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharth096&label=Profile%20views&color=0e75b6&style=flat" alt="sidharth096" /> </p>
 
-- 🔭 I’m currently working on **creative company**
-
-- 🌱 I’m currently learning **Typescript,Reactjs**
 
 - 👯 I’m looking to collaborate on **node project**
 
